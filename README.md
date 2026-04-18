@@ -32,5 +32,5 @@ pip install pandas scikit-learn xgboost matplotlib seaborn
 
 📝 Xulosa​
 Ushbu model bankka ketish ehtimoli yuqori bo'lgan mijozlarni 85% dan yuqori aniqlikda topish imkonini beradi. Kelgusida modelni SMOTE usuli bilan boyitish orqali Recall ko'rsatkichini yanada oshirish rejalashtirilgan.
-​Muallif: [Sizning Ismingiz]
+​Muallif: [Xolmatov Ixlos]
 Loyiha sanasi: 2026-yil aprel
